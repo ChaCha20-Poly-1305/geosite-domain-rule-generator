@@ -24,11 +24,14 @@ jobs:
           git add .
           git diff --staged --quiet || git commit -m "Automated update: $(date +'%Y-%m-%d')"
           git push
+      - name: Set release tag
+        run: echo "RELEASE_TAG=release-$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
       - name: Create release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: "release-$(date +'%Y-%m-%d')"
-          name: "Automated nightly release $(date +'%Y-%m-%d')"
+          tag_name: ${{ env.RELEASE_TAG }}
+          name: "Automated nightly release ${{ env.RELEASE_TAG }}"
           files: |
             output/ru-unbound-domain-blocklist.conf
             output/ru-foreign-TLD-domain.list
