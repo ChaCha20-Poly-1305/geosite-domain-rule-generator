@@ -10,10 +10,10 @@ if [[ ! -f "$INPUT" ]]; then
   exit 1
 fi
 
-SHADOWROCKET="output/ru-foreign-TLD-domain.list"
+SHADOWROCKET="output/ru-domain.list"
 UNBOUND="output/ru-unbound-domain-blocklist.conf"
 
-SR_NAME="ru-foreign-TLD-domain.list"
+SR_NAME="ru-domain.list"
 UB_NAME="ru-unbound-domain-blocklist.conf"
 AUTHOR="ChaCha20-Poly-1305"
 REPO="https://github.com/ChaCha20-Poly-1305/rule-scripting-playground"

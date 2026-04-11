@@ -13,7 +13,7 @@ jobs:
           python-version: '3.x'
       - name: Run scripts
         run: |
-          python extract-domains.py
+          python geosite-extractor.py -c category-ru -o output/domain_list_extracted.txt
           bash merge-and-sort.sh
           bash generate-domain-rules.sh
           bash generate-ip-geo-detect-rules.sh
