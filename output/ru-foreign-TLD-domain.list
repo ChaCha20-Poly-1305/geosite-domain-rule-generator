@@ -1,7 +1,7 @@
 # NAME: ru-foreign-TLD-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/rule-scripting-playground
-# UPDATED: 2026-04-11 23:41:08 CST
+# UPDATED: 2026-04-12 00:31:10 CST
 # TOTAL: 620
 
 DOMAIN-SUFFIX,24h.tv
