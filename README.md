@@ -1,6 +1,6 @@
 # What the hell is this?
 
-A set of scripts to generate domain-based routing rulesets sourced from @v2fly/domain-list-community. As of now, it generates rulesets for `category-ru` and `category-ip-geo-detect`, but it's possible to add other categories too (open an issue or PR if you have a request).
+A set of scripts to generate domain-based routing rulesets sourced from [@v2fly/domain-list-community](https://github.com/v2fly/domain-list-community). As of now, it generates rulesets for `category-ru` and `category-ip-geo-detect`, but it's possible to add other categories too (open an issue or PR if you have a request).
 
 `*-domain.list` - DOMAIN-SUFFIX rulesets compatible with Mihomo and other tools that follow the same syntax (Shadowrocket, QuantumultX and others)
 
