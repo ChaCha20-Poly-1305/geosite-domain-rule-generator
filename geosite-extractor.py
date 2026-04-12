@@ -15,6 +15,8 @@ The script:
   2. Downloads the source repository ZIP (once, ~3 MB) to build a complete include map
      and caches it as dlc-includes.json next to the dat file.
   3. Resolves include: directives recursively - every nested sub-category is pulled in.
+     Handles attribute-filtered includes (e.g. `include:acfun @ads`) by taking only
+     the matching tagged entries from that sub-category.
   4. Writes a clean, alphabetically sorted, deduplicated .txt - one domain per line,
      no blank lines, no comments, no full: / @cn artefacts, no regex patterns.
 
@@ -69,10 +71,15 @@ def _read_ld(buf: bytes, pos: int):
 
 
 def _parse_domain_entry(buf: bytes):
-    """Return (type_int, value_str) for a Domain protobuf message."""
+    """Return (type_int, value_str, attrs_frozenset) for a Domain protobuf message.
+
+    attrs_frozenset contains the string keys of any Attribute messages on this
+    entry, e.g. frozenset({"ads"}) or frozenset({"cn"}) or frozenset().
+    """
     pos = 0
     dtype = 2      # default: Domain / subdomain match
     value = None
+    attrs = []
     while pos < len(buf):
         tag, pos = _read_varint(buf, pos)
         field, wire = tag >> 3, tag & 7
@@ -84,18 +91,37 @@ def _parse_domain_entry(buf: bytes):
             raw, pos = _read_ld(buf, pos)
             if field == 2:
                 value = raw.decode("utf-8", errors="replace")
+            elif field == 3:
+                # Attribute message: field 1 = key (string), field 2 = bool_value
+                apos = 0
+                akey = None
+                while apos < len(raw):
+                    atag, apos = _read_varint(raw, apos)
+                    af, aw = atag >> 3, atag & 7
+                    if aw == 0:
+                        _, apos = _read_varint(raw, apos)
+                    elif aw == 2:
+                        ar, apos = _read_ld(raw, apos)
+                        if af == 1:
+                            akey = ar.decode("utf-8", errors="replace")
+                if akey:
+                    attrs.append(akey)
         elif wire == 5:
             pos += 4
         elif wire == 1:
             pos += 8
-    return dtype, value
+    return dtype, value, frozenset(attrs)
 
 
 def parse_dat(path: str) -> dict:
     """
     Parse a GeoSite .dat file.
 
-    Returns { "CATEGORY-NAME": ["domain1", "domain2", ...], ... }
+    Returns { "CATEGORY-NAME": [(domain_str, attrs_frozenset), ...], ... }
+
+    Each entry is a (domain, attrs) tuple where attrs is a frozenset of attribute
+    key strings found on that domain (e.g. frozenset({"ads"}), frozenset({"cn"}),
+    or frozenset() for untagged entries).
 
     Domain types kept:
       2 = Domain  (subdomain match, e.g. "google.com" also matches "www.google.com")
@@ -126,14 +152,14 @@ def parse_dat(path: str) -> dict:
                         if ifield == 1:
                             code = iraw.decode("utf-8")
                         elif ifield == 2:
-                            dtype, value = _parse_domain_entry(iraw)
+                            dtype, value, attrs = _parse_domain_entry(iraw)
                             if (
                                 value
                                 and dtype in (2, 3)
                                 and "." in value
                                 and not value.startswith(".")
                             ):
-                                domains.append(value.lower().strip())
+                                domains.append((value.lower().strip(), attrs))
                     elif iwire == 0:
                         _, ipos = _read_varint(raw, ipos)
                     elif iwire == 5:
@@ -164,15 +190,23 @@ def _includes_path(dat_path: str) -> str:
 def _build_include_map_from_zip(zip_bytes: bytes) -> dict:
     """
     Parse every file under data/ in the repository ZIP and return:
-        { "CATEGORY-NAME": ["INCLUDED-CAT-1", "INCLUDED-CAT-2", ...], ... }
+        {
+          "CATEGORY-NAME": [
+            {"cat": "INCLUDED-CAT", "attr": None},       # plain include
+            {"cat": "OTHER-CAT",    "attr": "ads"},       # filtered include
+            ...
+          ],
+          ...
+        }
 
     Source file format (one entry per line):
         # comment
         domain.tld
         full:domain.tld
-        include:other-category
-        regexp:...            (ignored)
-        domain.tld @attr      (attribute stripped, domain kept)
+        include:other-category           <- plain include, attr=None
+        include:other-category @ads      <- filtered include, attr="ads"
+        regexp:...                       (ignored)
+        domain.tld @attr                 (attribute on a domain entry, not an include)
     """
     include_map = {}
     with zipfile.ZipFile(io.BytesIO(zip_bytes)) as zf:
@@ -191,9 +225,13 @@ def _build_include_map_from_zip(zip_bytes: bytes) -> dict:
                 line = line.strip()
                 if not line or line.startswith("#"):
                     continue
-                m = re.match(r"^include:(\S+)", line, re.IGNORECASE)
+                # include:target or include:target @attr
+                m = re.match(r"^include:(\S+?)(?:\s+@(\S+))?$", line, re.IGNORECASE)
                 if m:
-                    includes.append(m.group(1).upper())
+                    includes.append({
+                        "cat":  m.group(1).upper(),
+                        "attr": m.group(2).lower() if m.group(2) else None,
+                    })
             include_map[cat_name] = includes
     return include_map
 
@@ -272,25 +310,46 @@ def load_include_map(dat_path: str, force_refresh: bool = False):
 # Recursive include resolution
 # ---------------------------------------------------------------------------
 
-def resolve_categories(root: str, all_categories: set, include_map) -> set:
+def resolve_categories(root: str, all_categories: set, include_map) -> dict:
     """
-    Return the set of all category names that should be merged for *root*:
-    the root itself plus every include: target, resolved recursively.
+    Return a dict mapping every category that should contribute domains to the
+    attr filter that should be applied when pulling from it:
 
-    Only categories that actually exist in *all_categories* (i.e. in the binary)
-    are returned.  Missing includes are reported as warnings.
+        { "CATEGORY-RU":   None,   # take all domains
+          "MAILRU-GROUP":  None,   # take all domains
+          "VK":            None,   # take all domains
+          "ACFUN":         "ads",  # take only @ads-tagged domains
+          ... }
 
-    If *include_map* is None (source ZIP unavailable) only the root is returned.
+    None as a filter means "take all domains from this category".
+    A string filter (e.g. "ads") means "take only domains carrying that attribute".
+
+    Rules:
+    - The root is always included with filter=None.
+    - Plain includes (attr=None) are added with filter=None and recursed into.
+    - Attr-filtered includes (e.g. attr="ads") are added with that filter and treated
+      as leaves — we don't recurse into their own includes, because the filter already
+      scopes what we want from the binary entry.
+    - If a category is encountered both with and without a filter (via different paths),
+      the filter is widened to None (all domains).
+    - Categories absent from all_categories are warned and skipped.
+    - If include_map is None (source ZIP unavailable) only the root is returned.
     """
     root = root.upper()
-    visited = set()
-    queue = [root]
+    # resolved maps cat_name -> attr_filter (None = all, str = filtered)
+    resolved: dict = {}
+    # queue entries: (cat_name, attr_filter)
+    queue = [(root, None)]
 
     while queue:
-        cat = queue.pop().upper()
-        if cat in visited:
+        cat, attr = queue.pop()
+        cat = cat.upper()
+
+        if cat in resolved:
+            # Already queued/visited — widen filter if necessary
+            if resolved[cat] is not None and (attr is None or resolved[cat] != attr):
+                resolved[cat] = None   # conflicting filters → take all
             continue
-        visited.add(cat)
 
         if cat not in all_categories:
             if cat != root:
@@ -301,19 +360,28 @@ def resolve_categories(root: str, all_categories: set, include_map) -> set:
                 )
             continue
 
-        if include_map is None:
+        resolved[cat] = attr
+
+        # Attr-filtered includes are leaves: the filter scopes the already-compiled
+        # binary entry, so there is nothing more to recurse into.
+        if attr is not None or include_map is None:
             continue
 
         sub_includes = include_map.get(cat, [])
-        new = [s for s in sub_includes if s.upper() not in visited]
+        new = [
+            inc for inc in sub_includes
+            if inc["cat"].upper() not in resolved
+        ]
         if new:
-            print(
-                f"  [info] {cat} includes: {', '.join(new)}",
-                file=sys.stderr,
-            )
-        queue.extend(new)
+            labels = [
+                f"{i['cat']}{'@' + i['attr'] if i['attr'] else ''}"
+                for i in new
+            ]
+            print(f"  [info] {cat} includes: {', '.join(labels)}", file=sys.stderr)
+        for inc in new:
+            queue.append((inc["cat"], inc["attr"]))
 
-    return visited & all_categories
+    return resolved
 
 
 # ---------------------------------------------------------------------------
@@ -506,9 +574,10 @@ def main():
     # ------------------------------------------------------------------
     resolved = resolve_categories(requested, set(categories), include_map)
     if len(resolved) > 1:
+        filtered = [f"{c}@{a}" if a else c for c, a in sorted(resolved.items()) if c != requested]
         print(
             f"[info] Merging {len(resolved)} categories: "
-            f"{', '.join(sorted(resolved))}",
+            f"{requested} + {', '.join(filtered)}",
             file=sys.stderr,
         )
     else:
@@ -517,9 +586,11 @@ def main():
     # ------------------------------------------------------------------
     # 6. Collect, clean, sort, deduplicate
     # ------------------------------------------------------------------
-    raw_domains = set()
-    for cat in resolved:
-        raw_domains.update(db[cat])
+    raw_domains: set = set()
+    for cat, attr_filter in resolved.items():
+        for domain, attrs in db[cat]:
+            if attr_filter is None or attr_filter in attrs:
+                raw_domains.add(domain)
 
     clean = sorted(
         {
