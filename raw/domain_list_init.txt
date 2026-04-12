@@ -211,6 +211,7 @@ counter.yandex.ru
 crimea.ru
 crl.kaspersky.com
 cu.ru
+cuprum.media
 custody.ru
 dagestan.ru
 dashly.app
@@ -484,6 +485,7 @@ lmru.tech
 loyalnost-adv.ozon.ru
 loymaxsc.net
 made-in-altai.ru
+madte.st
 magadan.ru
 magic-mix.ru
 magnit.com
