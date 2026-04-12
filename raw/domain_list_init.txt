@@ -192,6 +192,7 @@ clck.yandex.ru
 clck.yango.com
 cleantalk.org
 clickstream.sberbank.ru
+clients.site
 cloud.ru
 cloudru.cn
 clstorage.net
