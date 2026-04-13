@@ -6,7 +6,7 @@ A set of scripts to generate domain-based routing rulesets sourced from [@v2fly/
 
 `*-unbound-domain-blocklist.conf` or `*-unbound-domain-whitelist.conf` - Unbound-compatible rulesets for DNS-based routing
 
-The scripts automatically run and generate the rulesets every day at UTC 16:00.
+The scripts automatically run and generate the rulesets every 8 hours.
 
 ## Disclaimer
 
