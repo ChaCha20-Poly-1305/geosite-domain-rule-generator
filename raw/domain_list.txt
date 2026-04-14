@@ -101,6 +101,11 @@ analytics.mobile.yandex.net
 analytics.vk.com
 analytics.vk.ru
 analytics.wildberries.ru
+ancor-group.com
+ancor.by
+ancor.co.uz
+ancor.kz
+ancor.ua
 aodahl.com
 api-eu.carrotquest.app
 api-eu.carrotquest.io

@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-04-14 19:41:58 CST
-# TOTAL: 1439
+# UPDATED: 2026-04-14 20:06:11 CST
+# TOTAL: 1444
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -107,6 +107,11 @@ DOMAIN-SUFFIX,analytics.mobile.yandex.net
 DOMAIN-SUFFIX,analytics.vk.com
 DOMAIN-SUFFIX,analytics.vk.ru
 DOMAIN-SUFFIX,analytics.wildberries.ru
+DOMAIN-SUFFIX,ancor-group.com
+DOMAIN-SUFFIX,ancor.by
+DOMAIN-SUFFIX,ancor.co.uz
+DOMAIN-SUFFIX,ancor.kz
+DOMAIN-SUFFIX,ancor.ua
 DOMAIN-SUFFIX,aodahl.com
 DOMAIN-SUFFIX,api-eu.carrotquest.app
 DOMAIN-SUFFIX,api-eu.carrotquest.io
