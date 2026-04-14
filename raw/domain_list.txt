@@ -36,6 +36,7 @@ ad.mail.ru
 ad.ozone.ru
 ad4.mail.ru
 adblogger.vk.com
+adblogger.vk.ru
 adfox.ru
 adfox.yandex.ru
 adfstat.yandex.ru
@@ -64,6 +65,8 @@ adsapp.telega.info
 adsdk.yandex.ru
 adv.ozon.ru
 adv.rustore.ru
+adv.vk.com
+adv.vk.ru
 adv.yandex.com
 adv.yandex.ru
 advert-api-sandbox.wb.ru
@@ -72,6 +75,7 @@ advert-api.wb.ru
 advert-api.wildberries.ru
 advert-media-api.wb.ru
 advert-media-api.wildberries.ru
+advk.vk.ru
 adygeya.ru
 ae-rus.net
 aestatic.net
@@ -1003,6 +1007,7 @@ spb.ru
 sportmail.ru
 sprosivracha.com
 sr.farm
+srch-telemeter10.g.smailru.net
 srv-hub.org
 st-ok-pts.cdn-vk.ru
 st-ok.cdn-vk.ru

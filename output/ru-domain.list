@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-04-14 20:06:11 CST
-# TOTAL: 1444
+# UPDATED: 2026-04-15 03:56:29 CST
+# TOTAL: 1449
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,ad.ozone.ru
 DOMAIN-SUFFIX,ad4.mail.ru
 DOMAIN-SUFFIX,adblogger.vk.com
+DOMAIN-SUFFIX,adblogger.vk.ru
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN-SUFFIX,adfstat.yandex.ru
@@ -70,6 +71,8 @@ DOMAIN-SUFFIX,adsapp.telega.info
 DOMAIN-SUFFIX,adsdk.yandex.ru
 DOMAIN-SUFFIX,adv.ozon.ru
 DOMAIN-SUFFIX,adv.rustore.ru
+DOMAIN-SUFFIX,adv.vk.com
+DOMAIN-SUFFIX,adv.vk.ru
 DOMAIN-SUFFIX,adv.yandex.com
 DOMAIN-SUFFIX,adv.yandex.ru
 DOMAIN-SUFFIX,advert-api-sandbox.wb.ru
@@ -78,6 +81,7 @@ DOMAIN-SUFFIX,advert-api.wb.ru
 DOMAIN-SUFFIX,advert-api.wildberries.ru
 DOMAIN-SUFFIX,advert-media-api.wb.ru
 DOMAIN-SUFFIX,advert-media-api.wildberries.ru
+DOMAIN-SUFFIX,advk.vk.ru
 DOMAIN-SUFFIX,adygeya.ru
 DOMAIN-SUFFIX,ae-rus.net
 DOMAIN-SUFFIX,aestatic.net
@@ -1009,6 +1013,7 @@ DOMAIN-SUFFIX,spb.ru
 DOMAIN-SUFFIX,sportmail.ru
 DOMAIN-SUFFIX,sprosivracha.com
 DOMAIN-SUFFIX,sr.farm
+DOMAIN-SUFFIX,srch-telemeter10.g.smailru.net
 DOMAIN-SUFFIX,srv-hub.org
 DOMAIN-SUFFIX,st-ok-pts.cdn-vk.ru
 DOMAIN-SUFFIX,st-ok.cdn-vk.ru
