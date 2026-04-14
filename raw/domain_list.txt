@@ -121,6 +121,8 @@ api.mindbox.cloud
 api.mindbox.ru
 api.s.mindbox.ru
 apiok.ru
+aplaut.io
+apltcdn.com
 appmetrica.yandex.com
 appmetrica.yandex.net
 appmetrica.yandex.ru
