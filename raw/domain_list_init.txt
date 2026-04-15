@@ -1138,10 +1138,16 @@ uchi.ru
 ucoz.by
 ucoz.co
 ucoz.com
+ucoz.com.ro
+ucoz.de
+ucoz.es
+ucoz.fr
+ucoz.hu
 ucoz.kz
 ucoz.md
 ucoz.net
 ucoz.org
+ucoz.pl
 ucoz.ru
 ucoz.su
 ucoz.ua
