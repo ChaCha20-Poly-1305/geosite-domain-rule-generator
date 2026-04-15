@@ -92,6 +92,7 @@ alibabadns.com
 alicdn.com
 aliexpress-media.com
 aliexpress.com
+alt-ad.mail.ru
 alt-r.my.com
 altai.ru
 amc.yandex.ru
@@ -1262,6 +1263,8 @@ wellberies.ru
 westranger.ru
 whiteline.mail.ru
 whitesaas.com
+whoosh-bike.ru
+whoosh.bike
 wibedo.com
 wibes.com
 wibes.ru
