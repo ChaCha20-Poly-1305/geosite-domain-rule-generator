@@ -145,6 +145,7 @@ arenda.yandex.ru
 arkhangelsk.ru
 armgs.team
 astrakhan.ru
+at.ua
 atomyze.ru
 atomyze.tech
 attachmy.com
@@ -1135,9 +1136,11 @@ tvigle.ru
 twc1.net
 tyumen.ru
 uchi.ru
-ucoz.by
+ucoz.ae
 ucoz.co
+ucoz.co.il
 ucoz.com
+ucoz.com.br
 ucoz.com.ro
 ucoz.de
 ucoz.es
@@ -1149,14 +1152,13 @@ ucoz.net
 ucoz.org
 ucoz.pl
 ucoz.ru
-ucoz.su
 ucoz.ua
 ucozmedia.com
-ucozmedia.net
 ucozmedia.ru
 ucsan.ru
 udm.ru
 udmurtia.ru
+uguide.ru
 ukit.ai
 ukit.com
 ukit.group
