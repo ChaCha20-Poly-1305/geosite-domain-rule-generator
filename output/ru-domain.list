@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-04-15 19:37:56 CST
-# TOTAL: 1452
+# UPDATED: 2026-04-16 03:55:51 CST
+# TOTAL: 1478
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -151,6 +151,7 @@ DOMAIN-SUFFIX,arenda.yandex.ru
 DOMAIN-SUFFIX,arkhangelsk.ru
 DOMAIN-SUFFIX,armgs.team
 DOMAIN-SUFFIX,astrakhan.ru
+DOMAIN-SUFFIX,at.ua
 DOMAIN-SUFFIX,atomyze.ru
 DOMAIN-SUFFIX,atomyze.tech
 DOMAIN-SUFFIX,attachmy.com
@@ -333,6 +334,7 @@ DOMAIN-SUFFIX,dodopizza.ru
 DOMAIN-SUFFIX,dodostatic.net
 DOMAIN-SUFFIX,dolyame.ru
 DOMAIN-SUFFIX,donationalerts.com
+DOMAIN-SUFFIX,donatov.net
 DOMAIN-SUFFIX,dostaevsky.ru
 DOMAIN-SUFFIX,driveawaytaxi.org
 DOMAIN-SUFFIX,dsppx1.com
@@ -1140,9 +1142,33 @@ DOMAIN-SUFFIX,tvigle.ru
 DOMAIN-SUFFIX,twc1.net
 DOMAIN-SUFFIX,tyumen.ru
 DOMAIN-SUFFIX,uchi.ru
+DOMAIN-SUFFIX,ucoz.ae
+DOMAIN-SUFFIX,ucoz.co
+DOMAIN-SUFFIX,ucoz.co.il
+DOMAIN-SUFFIX,ucoz.com
+DOMAIN-SUFFIX,ucoz.com.br
+DOMAIN-SUFFIX,ucoz.com.ro
+DOMAIN-SUFFIX,ucoz.de
+DOMAIN-SUFFIX,ucoz.es
+DOMAIN-SUFFIX,ucoz.fr
+DOMAIN-SUFFIX,ucoz.hu
+DOMAIN-SUFFIX,ucoz.kz
+DOMAIN-SUFFIX,ucoz.md
+DOMAIN-SUFFIX,ucoz.net
+DOMAIN-SUFFIX,ucoz.org
+DOMAIN-SUFFIX,ucoz.pl
+DOMAIN-SUFFIX,ucoz.ru
+DOMAIN-SUFFIX,ucoz.ua
+DOMAIN-SUFFIX,ucozmedia.com
+DOMAIN-SUFFIX,ucozmedia.ru
 DOMAIN-SUFFIX,ucsan.ru
 DOMAIN-SUFFIX,udm.ru
 DOMAIN-SUFFIX,udmurtia.ru
+DOMAIN-SUFFIX,uguide.ru
+DOMAIN-SUFFIX,ukit.ai
+DOMAIN-SUFFIX,ukit.com
+DOMAIN-SUFFIX,ukit.group
+DOMAIN-SUFFIX,ukit.me
 DOMAIN-SUFFIX,ulan-ude.ru
 DOMAIN-SUFFIX,umschool.net
 DOMAIN-SUFFIX,uni.rest
