@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-04-16 03:55:51 CST
-# TOTAL: 1478
+# UPDATED: 2026-04-16 14:23:34 CST
+# TOTAL: 1479
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -1143,6 +1143,7 @@ DOMAIN-SUFFIX,twc1.net
 DOMAIN-SUFFIX,tyumen.ru
 DOMAIN-SUFFIX,uchi.ru
 DOMAIN-SUFFIX,ucoz.ae
+DOMAIN-SUFFIX,ucoz.club
 DOMAIN-SUFFIX,ucoz.co
 DOMAIN-SUFFIX,ucoz.co.il
 DOMAIN-SUFFIX,ucoz.com
