@@ -1,11 +1,12 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-04-18 18:09:48 CST
-# TOTAL: 1554
+# UPDATED: 2026-04-19 01:55:24 CST
+# TOTAL: 1555
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
+DOMAIN-SUFFIX,1trackapp.com
 DOMAIN-SUFFIX,21-school.ru
 DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,2gis.ae
