@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-04-22 19:42:48 CST
-# TOTAL: 1562
+# UPDATED: 2026-04-23 03:56:41 CST
+# TOTAL: 1575
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,aliexpress-media.com
 DOMAIN-SUFFIX,aliexpress.com
+DOMAIN-SUFFIX,allergotop.com
 DOMAIN-SUFFIX,alt-ad.mail.ru
 DOMAIN-SUFFIX,alt-r.my.com
 DOMAIN-SUFFIX,altai.ru
@@ -188,6 +189,7 @@ DOMAIN-SUFFIX,beginners-adv.ozon.ru
 DOMAIN-SUFFIX,belgorod.ru
 DOMAIN-SUFFIX,berizaryad.ru
 DOMAIN-SUFFIX,betboom.ru
+DOMAIN-SUFFIX,bezformata.com
 DOMAIN-SUFFIX,bilet.nspk.ru
 DOMAIN-SUFFIX,bir.ru
 DOMAIN-SUFFIX,bitrix.info
@@ -403,6 +405,7 @@ DOMAIN-SUFFIX,foxx-shop.ru
 DOMAIN-SUFFIX,g.mindbox.ru
 DOMAIN-SUFFIX,gainstech.ru
 DOMAIN-SUFFIX,gamescup.ru
+DOMAIN-SUFFIX,gazeta.press
 DOMAIN-SUFFIX,gazprombank.com
 DOMAIN-SUFFIX,gazprombank.investments
 DOMAIN-SUFFIX,gazprombank.ru
@@ -497,6 +500,7 @@ DOMAIN-SUFFIX,ilovesakura.ru
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,inbox.ru
 DOMAIN-SUFFIX,informer.yandex.ru
+DOMAIN-SUFFIX,inostudio.com
 DOMAIN-SUFFIX,insales-cdn.com
 DOMAIN-SUFFIX,insideok.ru
 DOMAIN-SUFFIX,internet.ru
@@ -651,6 +655,7 @@ DOMAIN-SUFFIX,lipetsk.ru
 DOMAIN-SUFFIX,list.ru
 DOMAIN-SUFFIX,livejournal.com
 DOMAIN-SUFFIX,livejournal.net
+DOMAIN-SUFFIX,livetex.me
 DOMAIN-SUFFIX,lizageld.de
 DOMAIN-SUFFIX,lizageld.ru
 DOMAIN-SUFFIX,lk.emias.mos.ru
@@ -757,6 +762,7 @@ DOMAIN-SUFFIX,myapelsin.ru
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,myoffice.ru
 DOMAIN-SUFFIX,myoffice.team
+DOMAIN-SUFFIX,myseldon.com
 DOMAIN-SUFFIX,myspar.ru
 DOMAIN-SUFFIX,mytopf.com
 DOMAIN-SUFFIX,mytrk.link
@@ -803,6 +809,7 @@ DOMAIN-SUFFIX,oskelly.co
 DOMAIN-SUFFIX,oskelly.ru
 DOMAIN-SUFFIX,ostrovok.ru
 DOMAIN-SUFFIX,otello.ru
+DOMAIN-SUFFIX,otm-r.com
 DOMAIN-SUFFIX,otsovik.com
 DOMAIN-SUFFIX,otzovik.com
 DOMAIN-SUFFIX,ozon-credit.ru
@@ -877,8 +884,10 @@ DOMAIN-SUFFIX,pixonic.com
 DOMAIN-SUFFIX,platiecom.ru
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,pleamo.ru
+DOMAIN-SUFFIX,pmpro.agency
 DOMAIN-SUFFIX,pochtabank.ru
 DOMAIN-SUFFIX,podorozhnik.spb.ru
+DOMAIN-SUFFIX,poisk.ai
 DOMAIN-SUFFIX,polyclinika.ru
 DOMAIN-SUFFIX,popmechanic.io
 DOMAIN-SUFFIX,popmechanic.ru
@@ -1018,6 +1027,7 @@ DOMAIN-SUFFIX,sbertroika.ru
 DOMAIN-SUFFIX,sbrf.ru
 DOMAIN-SUFFIX,scripts-for-ucoz.ru
 DOMAIN-SUFFIX,selcdn.net
+DOMAIN-SUFFIX,seldon.info
 DOMAIN-SUFFIX,selectel.academy
 DOMAIN-SUFFIX,selectel.blog
 DOMAIN-SUFFIX,selectel.com
@@ -1063,6 +1073,7 @@ DOMAIN-SUFFIX,slatic.net
 DOMAIN-SUFFIX,slc.tl
 DOMAIN-SUFFIX,smailru.net
 DOMAIN-SUFFIX,smartmed.pro
+DOMAIN-SUFFIX,smarttek.media
 DOMAIN-SUFFIX,smolensk.ru
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,softportal.com
@@ -1190,6 +1201,7 @@ DOMAIN-SUFFIX,tomsk.ru
 DOMAIN-SUFFIX,top-fwz1.mail.ru
 DOMAIN-SUFFIX,top-staging.mail.ru
 DOMAIN-SUFFIX,top100vk.com
+DOMAIN-SUFFIX,topspb.tv
 DOMAIN-SUFFIX,tpension.ru
 DOMAIN-SUFFIX,tracing-http.megamarket.tech
 DOMAIN-SUFFIX,tracker-api.my.com
@@ -1563,6 +1575,7 @@ DOMAIN-SUFFIX,zarplata.ru
 DOMAIN-SUFFIX,zaulov.by
 DOMAIN-SUFFIX,zdrav.expert
 DOMAIN-SUFFIX,zdrav10.ru
+DOMAIN-SUFFIX,zdravcity.rocks
 DOMAIN-SUFFIX,zvonili.com
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com

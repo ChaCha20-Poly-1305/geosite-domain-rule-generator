@@ -98,6 +98,7 @@ alibabadns.com
 alicdn.com
 aliexpress-media.com
 aliexpress.com
+allergotop.com
 alt-ad.mail.ru
 alt-r.my.com
 altai.ru
@@ -182,6 +183,7 @@ beginners-adv.ozon.ru
 belgorod.ru
 berizaryad.ru
 betboom.ru
+bezformata.com
 bilet.nspk.ru
 bir.ru
 bitrix.info
@@ -397,6 +399,7 @@ foxx-shop.ru
 g.mindbox.ru
 gainstech.ru
 gamescup.ru
+gazeta.press
 gazprombank.com
 gazprombank.investments
 gazprombank.ru
@@ -491,6 +494,7 @@ ilovesakura.ru
 imgsmail.ru
 inbox.ru
 informer.yandex.ru
+inostudio.com
 insales-cdn.com
 insideok.ru
 internet.ru
@@ -645,6 +649,7 @@ lipetsk.ru
 list.ru
 livejournal.com
 livejournal.net
+livetex.me
 lizageld.de
 lizageld.ru
 lk.emias.mos.ru
@@ -751,6 +756,7 @@ myapelsin.ru
 mycdn.me
 myoffice.ru
 myoffice.team
+myseldon.com
 myspar.ru
 mytopf.com
 mytrk.link
@@ -797,6 +803,7 @@ oskelly.co
 oskelly.ru
 ostrovok.ru
 otello.ru
+otm-r.com
 otsovik.com
 otzovik.com
 ozon-credit.ru
@@ -871,8 +878,10 @@ pixonic.com
 platiecom.ru
 playfamily.ru
 pleamo.ru
+pmpro.agency
 pochtabank.ru
 podorozhnik.spb.ru
+poisk.ai
 polyclinika.ru
 popmechanic.io
 popmechanic.ru
@@ -1012,6 +1021,7 @@ sbertroika.ru
 sbrf.ru
 scripts-for-ucoz.ru
 selcdn.net
+seldon.info
 selectel.academy
 selectel.blog
 selectel.com
@@ -1057,6 +1067,7 @@ slatic.net
 slc.tl
 smailru.net
 smartmed.pro
+smarttek.media
 smolensk.ru
 smotreshka.tv
 softportal.com
@@ -1184,6 +1195,7 @@ tomsk.ru
 top-fwz1.mail.ru
 top-staging.mail.ru
 top100vk.com
+topspb.tv
 tpension.ru
 tracing-http.megamarket.tech
 tracker-api.my.com
@@ -1557,6 +1569,7 @@ zarplata.ru
 zaulov.by
 zdrav.expert
 zdrav10.ru
+zdravcity.rocks
 zvonili.com
 zvuk-b2b.com
 zvuk.com
