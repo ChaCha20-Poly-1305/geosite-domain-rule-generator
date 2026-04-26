@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-04-26 18:32:12 CST
-# TOTAL: 1575
+# UPDATED: 2026-04-27 02:05:31 CST
+# TOTAL: 1583
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -247,6 +247,7 @@ DOMAIN-SUFFIX,cdektr.com
 DOMAIN-SUFFIX,cdn-tinkoff.ru
 DOMAIN-SUFFIX,cdn-vk.net
 DOMAIN-SUFFIX,cdn-vk.ru
+DOMAIN-SUFFIX,cdngtc.com
 DOMAIN-SUFFIX,cdnmail.ru
 DOMAIN-SUFFIX,cdnvideo.ru
 DOMAIN-SUFFIX,cdnvideohub.com
@@ -415,6 +416,7 @@ DOMAIN-SUFFIX,genotek.am
 DOMAIN-SUFFIX,genotek.health
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,gerronfox.com
+DOMAIN-SUFFIX,getcontact.com
 DOMAIN-SUFFIX,getsynapse.io
 DOMAIN-SUFFIX,gid.ru
 DOMAIN-SUFFIX,giga.chat
@@ -444,6 +446,7 @@ DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,haicomdc.com
 DOMAIN-SUFFIX,haicomdc.ru
 DOMAIN-SUFFIX,haicomgroup.ru
+DOMAIN-SUFFIX,hawk.so
 DOMAIN-SUFFIX,hayya.ae
 DOMAIN-SUFFIX,hh.by
 DOMAIN-SUFFIX,hh.kz
@@ -610,6 +613,7 @@ DOMAIN-SUFFIX,kontur.host
 DOMAIN-SUFFIX,kontur.ru
 DOMAIN-SUFFIX,koshelek.app
 DOMAIN-SUFFIX,kostroma.ru
+DOMAIN-SUFFIX,kpcdn.net
 DOMAIN-SUFFIX,krasnodar.su
 DOMAIN-SUFFIX,krasnoeibeloe.ru
 DOMAIN-SUFFIX,krasnoyarsk.ru
@@ -733,6 +737,7 @@ DOMAIN-SUFFIX,mobile-bb.com
 DOMAIN-SUFFIX,mobile-icq.com
 DOMAIN-SUFFIX,mobileicq.com
 DOMAIN-SUFFIX,moex.com
+DOMAIN-SUFFIX,mom.life
 DOMAIN-SUFFIX,mordovia.ru
 DOMAIN-SUFFIX,mos.ru
 DOMAIN-SUFFIX,mos.transport.vtb.ru
@@ -807,6 +812,7 @@ DOMAIN-SUFFIX,orb.ru
 DOMAIN-SUFFIX,oryol.ru
 DOMAIN-SUFFIX,oskelly.co
 DOMAIN-SUFFIX,oskelly.ru
+DOMAIN-SUFFIX,osnova.io
 DOMAIN-SUFFIX,ostrovok.ru
 DOMAIN-SUFFIX,otello.ru
 DOMAIN-SUFFIX,otm-r.com
@@ -1105,6 +1111,7 @@ DOMAIN-SUFFIX,stats.rustore.ru
 DOMAIN-SUFFIX,stats.telega.info
 DOMAIN-SUFFIX,stats.vk-portal.net
 DOMAIN-SUFFIX,stavropol.ru
+DOMAIN-SUFFIX,stellarlabs.ai
 DOMAIN-SUFFIX,streamerce.live
 DOMAIN-SUFFIX,stv.ru
 DOMAIN-SUFFIX,summerstage.ru
@@ -1336,6 +1343,7 @@ DOMAIN-SUFFIX,vmailru.net
 DOMAIN-SUFFIX,volgograd.ru
 DOMAIN-SUFFIX,vologda.ru
 DOMAIN-SUFFIX,voronezh.ru
+DOMAIN-SUFFIX,vqserve.com
 DOMAIN-SUFFIX,vrn.ru
 DOMAIN-SUFFIX,vscale.blog
 DOMAIN-SUFFIX,vscale.io

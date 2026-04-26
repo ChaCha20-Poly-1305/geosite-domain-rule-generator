@@ -241,6 +241,7 @@ cdektr.com
 cdn-tinkoff.ru
 cdn-vk.net
 cdn-vk.ru
+cdngtc.com
 cdnmail.ru
 cdnvideo.ru
 cdnvideohub.com
@@ -409,6 +410,7 @@ genotek.am
 genotek.health
 geobasket.ru
 gerronfox.com
+getcontact.com
 getsynapse.io
 gid.ru
 giga.chat
@@ -438,6 +440,7 @@ habrastorage.org
 haicomdc.com
 haicomdc.ru
 haicomgroup.ru
+hawk.so
 hayya.ae
 hh.by
 hh.kz
@@ -604,6 +607,7 @@ kontur.host
 kontur.ru
 koshelek.app
 kostroma.ru
+kpcdn.net
 krasnodar.su
 krasnoeibeloe.ru
 krasnoyarsk.ru
@@ -727,6 +731,7 @@ mobile-bb.com
 mobile-icq.com
 mobileicq.com
 moex.com
+mom.life
 mordovia.ru
 mos.ru
 mos.transport.vtb.ru
@@ -801,6 +806,7 @@ orb.ru
 oryol.ru
 oskelly.co
 oskelly.ru
+osnova.io
 ostrovok.ru
 otello.ru
 otm-r.com
@@ -1099,6 +1105,7 @@ stats.rustore.ru
 stats.telega.info
 stats.vk-portal.net
 stavropol.ru
+stellarlabs.ai
 streamerce.live
 stv.ru
 summerstage.ru
@@ -1330,6 +1337,7 @@ vmailru.net
 volgograd.ru
 vologda.ru
 voronezh.ru
+vqserve.com
 vrn.ru
 vscale.blog
 vscale.io
