@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-05-26 11:51:24 CST
-# TOTAL: 1768
+# UPDATED: 2026-05-27 12:04:49 CST
+# TOTAL: 1770
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -498,6 +498,7 @@ DOMAIN-SUFFIX,gondol.ru
 DOMAIN-SUFFIX,google-analytics-suite.ozon.ru
 DOMAIN-SUFFIX,gorodpay.ru
 DOMAIN-SUFFIX,gorzdrav.org
+DOMAIN-SUFFIX,gorzdrav.spb.ru
 DOMAIN-SUFFIX,gosdolgi.ru
 DOMAIN-SUFFIX,goskey.ru
 DOMAIN-SUFFIX,gosuslugi.ru
@@ -1363,6 +1364,7 @@ DOMAIN-SUFFIX,top-staging.mail.ru
 DOMAIN-SUFFIX,top100vk.com
 DOMAIN-SUFFIX,topspb.tv
 DOMAIN-SUFFIX,tpension.ru
+DOMAIN-SUFFIX,trace-flow.ru
 DOMAIN-SUFFIX,tracing-http.megamarket.tech
 DOMAIN-SUFFIX,tracker-api.my.com
 DOMAIN-SUFFIX,tracker.my.com

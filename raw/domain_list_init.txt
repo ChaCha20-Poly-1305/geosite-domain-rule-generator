@@ -492,6 +492,7 @@ gondol.ru
 google-analytics-suite.ozon.ru
 gorodpay.ru
 gorzdrav.org
+gorzdrav.spb.ru
 gosdolgi.ru
 goskey.ru
 gosuslugi.ru
@@ -1357,6 +1358,7 @@ top-staging.mail.ru
 top100vk.com
 topspb.tv
 tpension.ru
+trace-flow.ru
 tracing-http.megamarket.tech
 tracker-api.my.com
 tracker.my.com
