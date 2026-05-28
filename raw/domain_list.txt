@@ -411,6 +411,7 @@ eligens.cl
 eligens.com.br
 eligens.io
 emias.info
+emias.mos.ru
 emias.ru
 enterly.ru
 envybox.company
@@ -830,6 +831,7 @@ mobile-bb.com
 mobile-icq.com
 mobileicq.com
 moex.com
+mofoms.ru
 mom.life
 mordovia.ru
 more.tv
@@ -917,6 +919,7 @@ okkoapi.tv
 okl.lt
 okolo.app
 oktech.ru
+oms.karelia.ru
 omsk.ru
 on-media.ru
 oneme.ru
@@ -1058,6 +1061,8 @@ rencapbank.ru
 rencredit.ru
 report-megafon.ru
 report.ap.yandex-net.ru
+reso-med.com
+reso-med.ru
 restnproducts.ru
 restream-media.net
 restream.ru
@@ -1236,6 +1241,7 @@ spasibobonus.ru
 spasibosb.ru
 spasibosberbank.ru
 spb.ru
+spboms.ru
 sportmail.ru
 sprosivracha.com
 sr.farm
@@ -1765,6 +1771,7 @@ zdravcity.rocks
 zenit-card.ru
 zenit.ru
 ziraatbank.ru
+zub.ru
 zvonili.com
 zvuk-b2b.com
 zvuk.com

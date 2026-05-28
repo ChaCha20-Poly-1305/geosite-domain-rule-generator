@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-05-27 12:04:49 CST
-# TOTAL: 1770
+# UPDATED: 2026-05-28 11:53:25 CST
+# TOTAL: 1777
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -417,6 +417,7 @@ DOMAIN-SUFFIX,eligens.cl
 DOMAIN-SUFFIX,eligens.com.br
 DOMAIN-SUFFIX,eligens.io
 DOMAIN-SUFFIX,emias.info
+DOMAIN-SUFFIX,emias.mos.ru
 DOMAIN-SUFFIX,emias.ru
 DOMAIN-SUFFIX,enterly.ru
 DOMAIN-SUFFIX,envybox.company
@@ -836,6 +837,7 @@ DOMAIN-SUFFIX,mobile-bb.com
 DOMAIN-SUFFIX,mobile-icq.com
 DOMAIN-SUFFIX,mobileicq.com
 DOMAIN-SUFFIX,moex.com
+DOMAIN-SUFFIX,mofoms.ru
 DOMAIN-SUFFIX,mom.life
 DOMAIN-SUFFIX,mordovia.ru
 DOMAIN-SUFFIX,more.tv
@@ -923,6 +925,7 @@ DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,okl.lt
 DOMAIN-SUFFIX,okolo.app
 DOMAIN-SUFFIX,oktech.ru
+DOMAIN-SUFFIX,oms.karelia.ru
 DOMAIN-SUFFIX,omsk.ru
 DOMAIN-SUFFIX,on-media.ru
 DOMAIN-SUFFIX,oneme.ru
@@ -1064,6 +1067,8 @@ DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,rencredit.ru
 DOMAIN-SUFFIX,report-megafon.ru
 DOMAIN-SUFFIX,report.ap.yandex-net.ru
+DOMAIN-SUFFIX,reso-med.com
+DOMAIN-SUFFIX,reso-med.ru
 DOMAIN-SUFFIX,restnproducts.ru
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream.ru
@@ -1242,6 +1247,7 @@ DOMAIN-SUFFIX,spasibobonus.ru
 DOMAIN-SUFFIX,spasibosb.ru
 DOMAIN-SUFFIX,spasibosberbank.ru
 DOMAIN-SUFFIX,spb.ru
+DOMAIN-SUFFIX,spboms.ru
 DOMAIN-SUFFIX,sportmail.ru
 DOMAIN-SUFFIX,sprosivracha.com
 DOMAIN-SUFFIX,sr.farm
@@ -1771,6 +1777,7 @@ DOMAIN-SUFFIX,zdravcity.rocks
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
 DOMAIN-SUFFIX,ziraatbank.ru
+DOMAIN-SUFFIX,zub.ru
 DOMAIN-SUFFIX,zvonili.com
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
