@@ -516,6 +516,7 @@ groupib.sg
 groupib.us
 grozny.ru
 gu-st.ru
+guruvod.com
 haicomdc.com
 haicomdc.ru
 haicomgroup.ru
