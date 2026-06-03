@@ -87,6 +87,7 @@ advert-media-api.wb.ru
 advert-media-api.wildberries.ru
 advk.vk.ru
 adygeya.ru
+adygtelecom.com
 ae-rus.net
 aestatic.net
 afisha.ru

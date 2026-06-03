@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-06-02 12:14:07 CST
-# TOTAL: 1777
+# UPDATED: 2026-06-03 12:23:57 CST
+# TOTAL: 1779
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,advert-media-api.wb.ru
 DOMAIN-SUFFIX,advert-media-api.wildberries.ru
 DOMAIN-SUFFIX,advk.vk.ru
 DOMAIN-SUFFIX,adygeya.ru
+DOMAIN-SUFFIX,adygtelecom.com
 DOMAIN-SUFFIX,ae-rus.net
 DOMAIN-SUFFIX,aestatic.net
 DOMAIN-SUFFIX,afisha.ru
@@ -522,6 +523,7 @@ DOMAIN-SUFFIX,groupib.sg
 DOMAIN-SUFFIX,groupib.us
 DOMAIN-SUFFIX,grozny.ru
 DOMAIN-SUFFIX,gu-st.ru
+DOMAIN-SUFFIX,guruvod.com
 DOMAIN-SUFFIX,haicomdc.com
 DOMAIN-SUFFIX,haicomdc.ru
 DOMAIN-SUFFIX,haicomgroup.ru
