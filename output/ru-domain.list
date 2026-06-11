@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-06-10 11:59:05 CST
-# TOTAL: 1912
+# UPDATED: 2026-06-11 12:13:07 CST
+# TOTAL: 1924
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -422,6 +422,18 @@ DOMAIN-SUFFIX,donatov.net
 DOMAIN-SUFFIX,dostaevsky.ru
 DOMAIN-SUFFIX,driveawaytaxi.org
 DOMAIN-SUFFIX,drobbox.pro
+DOMAIN-SUFFIX,drweb-av.de
+DOMAIN-SUFFIX,drweb-av.es
+DOMAIN-SUFFIX,drweb-av.it
+DOMAIN-SUFFIX,drweb-av.pl
+DOMAIN-SUFFIX,drweb.by
+DOMAIN-SUFFIX,drweb.cn
+DOMAIN-SUFFIX,drweb.co.jp
+DOMAIN-SUFFIX,drweb.com
+DOMAIN-SUFFIX,drweb.fr
+DOMAIN-SUFFIX,drweb.kz
+DOMAIN-SUFFIX,drweb.ru
+DOMAIN-SUFFIX,drweb.uz
 DOMAIN-SUFFIX,dsppx1.com
 DOMAIN-SUFFIX,dzen.ru
 DOMAIN-SUFFIX,dzeninfra.ru
