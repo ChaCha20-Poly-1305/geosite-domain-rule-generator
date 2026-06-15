@@ -947,6 +947,8 @@ neon.click
 netmonet.co
 new-adv.ozon.ru
 ngenix.net
+nic.ru
+nichost.ru
 nn.ru
 noosferabank.ru
 noticias-rt.com
@@ -1115,6 +1117,7 @@ r.mail.ru
 r.my.com
 r0.mail.ru
 r0.mradx.net
+r01.ru
 r1.mail.ru
 rabbitcounter.com
 rabota.by
@@ -1127,6 +1130,9 @@ rbcredit.ru
 rbsgate.com
 rbth.com
 refresh-bkg.activation-v2.kaspersky.com
+reg.cloud
+reg.com
+reg.ru
 regard.ru
 reklama.mail.ru
 relap.mail.ru
@@ -1412,6 +1418,7 @@ support-uber.com
 surgut.ru
 sushi-mag.com
 sushiwok.ru
+sweb.ru
 swentr.site
 t-access.ru
 t-bank-app.ru

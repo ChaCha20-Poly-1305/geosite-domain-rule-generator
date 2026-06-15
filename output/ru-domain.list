@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-06-14 12:20:55 CST
-# TOTAL: 1925
+# UPDATED: 2026-06-15 12:43:52 CST
+# TOTAL: 1932
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -953,6 +953,8 @@ DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,netmonet.co
 DOMAIN-SUFFIX,new-adv.ozon.ru
 DOMAIN-SUFFIX,ngenix.net
+DOMAIN-SUFFIX,nic.ru
+DOMAIN-SUFFIX,nichost.ru
 DOMAIN-SUFFIX,nn.ru
 DOMAIN-SUFFIX,noosferabank.ru
 DOMAIN-SUFFIX,noticias-rt.com
@@ -1121,6 +1123,7 @@ DOMAIN-SUFFIX,r.mail.ru
 DOMAIN-SUFFIX,r.my.com
 DOMAIN-SUFFIX,r0.mail.ru
 DOMAIN-SUFFIX,r0.mradx.net
+DOMAIN-SUFFIX,r01.ru
 DOMAIN-SUFFIX,r1.mail.ru
 DOMAIN-SUFFIX,rabbitcounter.com
 DOMAIN-SUFFIX,rabota.by
@@ -1133,6 +1136,9 @@ DOMAIN-SUFFIX,rbcredit.ru
 DOMAIN-SUFFIX,rbsgate.com
 DOMAIN-SUFFIX,rbth.com
 DOMAIN-SUFFIX,refresh-bkg.activation-v2.kaspersky.com
+DOMAIN-SUFFIX,reg.cloud
+DOMAIN-SUFFIX,reg.com
+DOMAIN-SUFFIX,reg.ru
 DOMAIN-SUFFIX,regard.ru
 DOMAIN-SUFFIX,reklama.mail.ru
 DOMAIN-SUFFIX,relap.mail.ru
@@ -1418,6 +1424,7 @@ DOMAIN-SUFFIX,support-uber.com
 DOMAIN-SUFFIX,surgut.ru
 DOMAIN-SUFFIX,sushi-mag.com
 DOMAIN-SUFFIX,sushiwok.ru
+DOMAIN-SUFFIX,sweb.ru
 DOMAIN-SUFFIX,swentr.site
 DOMAIN-SUFFIX,t-access.ru
 DOMAIN-SUFFIX,t-bank-app.ru
