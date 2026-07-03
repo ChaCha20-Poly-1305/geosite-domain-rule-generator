@@ -502,6 +502,7 @@ fon.bet
 fon.promo
 foralice.online
 forshtadt.ru
+foto-planeta.com
 foxx-shop.ru
 freeassange.tech
 freede.tech
@@ -1104,6 +1105,8 @@ psk
 psk.ru
 pskb.ru
 pskov.ru
+ptcloud.ru
+ptsecurity.com
 ptz.ru
 pushgrow.io
 pvubank.com
@@ -1126,6 +1129,7 @@ radar.imgsmail.ru
 radiosputnik.ru
 raiffeisen-media.ru
 raiffeisen.ru
+randomgodbot.com
 rbcollect.ru
 rbcredit.ru
 rbsgate.com
@@ -1343,6 +1347,8 @@ sentry.wb.ru
 sentry.x5.ru
 servercore.com
 servercore.live
+servicepipe.ru
+servicepipe.tech
 setka.ru
 sev.ru
 sevastopol.ru
@@ -1400,6 +1406,7 @@ ssb.msk.ru
 st-ok-pts.cdn-vk.ru
 st-ok.cdn-vk.ru
 stacks.vk-portal.net
+standoff365.com
 start.ru
 static-storage.net
 staticmy.com

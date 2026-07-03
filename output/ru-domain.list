@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-07-02 11:49:59 CST
-# TOTAL: 1933
+# UPDATED: 2026-07-03 11:31:12 CST
+# TOTAL: 1940
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -508,6 +508,7 @@ DOMAIN-SUFFIX,fon.bet
 DOMAIN-SUFFIX,fon.promo
 DOMAIN-SUFFIX,foralice.online
 DOMAIN-SUFFIX,forshtadt.ru
+DOMAIN-SUFFIX,foto-planeta.com
 DOMAIN-SUFFIX,foxx-shop.ru
 DOMAIN-SUFFIX,freeassange.tech
 DOMAIN-SUFFIX,freede.tech
@@ -1110,6 +1111,8 @@ DOMAIN-SUFFIX,psk
 DOMAIN-SUFFIX,psk.ru
 DOMAIN-SUFFIX,pskb.ru
 DOMAIN-SUFFIX,pskov.ru
+DOMAIN-SUFFIX,ptcloud.ru
+DOMAIN-SUFFIX,ptsecurity.com
 DOMAIN-SUFFIX,ptz.ru
 DOMAIN-SUFFIX,pushgrow.io
 DOMAIN-SUFFIX,pvubank.com
@@ -1132,6 +1135,7 @@ DOMAIN-SUFFIX,radar.imgsmail.ru
 DOMAIN-SUFFIX,radiosputnik.ru
 DOMAIN-SUFFIX,raiffeisen-media.ru
 DOMAIN-SUFFIX,raiffeisen.ru
+DOMAIN-SUFFIX,randomgodbot.com
 DOMAIN-SUFFIX,rbcollect.ru
 DOMAIN-SUFFIX,rbcredit.ru
 DOMAIN-SUFFIX,rbsgate.com
@@ -1349,6 +1353,8 @@ DOMAIN-SUFFIX,sentry.wb.ru
 DOMAIN-SUFFIX,sentry.x5.ru
 DOMAIN-SUFFIX,servercore.com
 DOMAIN-SUFFIX,servercore.live
+DOMAIN-SUFFIX,servicepipe.ru
+DOMAIN-SUFFIX,servicepipe.tech
 DOMAIN-SUFFIX,setka.ru
 DOMAIN-SUFFIX,sev.ru
 DOMAIN-SUFFIX,sevastopol.ru
@@ -1406,6 +1412,7 @@ DOMAIN-SUFFIX,ssb.msk.ru
 DOMAIN-SUFFIX,st-ok-pts.cdn-vk.ru
 DOMAIN-SUFFIX,st-ok.cdn-vk.ru
 DOMAIN-SUFFIX,stacks.vk-portal.net
+DOMAIN-SUFFIX,standoff365.com
 DOMAIN-SUFFIX,start.ru
 DOMAIN-SUFFIX,static-storage.net
 DOMAIN-SUFFIX,staticmy.com
