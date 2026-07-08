@@ -96,6 +96,7 @@ aestatic.net
 afisha.ru
 agency-adv.ozon.ru
 ahilesva.info
+aiesa.ru
 akbars.ru
 alefbank.com
 alfa.me
@@ -108,6 +109,9 @@ aliapp.com
 alibaba.com
 alibabadns.com
 alicdn.com
+alice.yandex.net
+alice.yandex.ru
+alicepro.yandex.ru
 aliexpress-media.com
 aliexpress.com
 allergotop.com
@@ -335,6 +339,7 @@ comss.org
 comss.ru
 contessa.ru
 coolera.ru
+copymonkey.app
 counter.yandex.net
 counter.yandex.ru
 cplsb.ru
@@ -498,6 +503,8 @@ fix-price.com
 fixgoodsport.ru
 flocktory.com
 flomni.com
+flowwow-images.com
+flowwow.com
 fon.bet
 fon.promo
 foralice.online
@@ -507,6 +514,8 @@ foxx-shop.ru
 freeassange.tech
 freede.tech
 freedert.online
+funpay.com
+funpay.ru
 future-cs.ru
 g-ib.ae
 g-ib.ru
@@ -530,6 +539,7 @@ genotek.health
 genotek.ru
 geobasket.ru
 gerronfox.com
+gerwin.io
 getcontact.com
 getsynapse.io
 gib-global.com
@@ -558,6 +568,7 @@ goup.ai
 gov.ru
 government.ru
 gpb.ru
+gptunnel.ru
 gravityfield.ai
 green-box-tv.com
 grfc.ru
@@ -1085,6 +1096,7 @@ pochtabank.ru
 podorozhnik.spb.ru
 poisk.ai
 polyclinika.ru
+polza.ai
 popmechanic.io
 popmechanic.ru
 premier.one
@@ -1156,6 +1168,7 @@ ritrag.com
 rkomi.ru
 rncoluminis.ru
 rnd.ru
+robotext.io
 rocketozon.by
 roistat.com
 romanovs100.com
@@ -1228,6 +1241,7 @@ ru.ccb.com
 ru.com
 ru.net
 rugg.ru
+rugpt.io
 ruhub.tv
 runewsrt.com
 ruptly.agency
@@ -1354,6 +1368,7 @@ sev.ru
 sevastopol.ru
 sferum-dev.ru
 sferum.ru
+sfunpay.com
 sgcheck.ru
 shedevrum.ai
 shop-rt.com
@@ -1495,6 +1510,7 @@ tilda.ru
 tilda.ws
 tildaapi.com
 tildacdn.com
+tildacdn.net
 time-messenger.ru
 timeweb.cloud
 timeweb.com
@@ -1515,6 +1531,7 @@ tmiaf.ru
 tochka-tech.com
 tochka.com
 tok.media
+tokenator.top
 tolstoycomments.com
 tom.ru
 tomsk.ru

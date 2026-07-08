@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-07-07 11:38:38 CST
-# TOTAL: 1940
+# UPDATED: 2026-07-08 10:53:36 CST
+# TOTAL: 1957
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,aestatic.net
 DOMAIN-SUFFIX,afisha.ru
 DOMAIN-SUFFIX,agency-adv.ozon.ru
 DOMAIN-SUFFIX,ahilesva.info
+DOMAIN-SUFFIX,aiesa.ru
 DOMAIN-SUFFIX,akbars.ru
 DOMAIN-SUFFIX,alefbank.com
 DOMAIN-SUFFIX,alfa.me
@@ -114,6 +115,9 @@ DOMAIN-SUFFIX,aliapp.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alice.yandex.net
+DOMAIN-SUFFIX,alice.yandex.ru
+DOMAIN-SUFFIX,alicepro.yandex.ru
 DOMAIN-SUFFIX,aliexpress-media.com
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,allergotop.com
@@ -341,6 +345,7 @@ DOMAIN-SUFFIX,comss.org
 DOMAIN-SUFFIX,comss.ru
 DOMAIN-SUFFIX,contessa.ru
 DOMAIN-SUFFIX,coolera.ru
+DOMAIN-SUFFIX,copymonkey.app
 DOMAIN-SUFFIX,counter.yandex.net
 DOMAIN-SUFFIX,counter.yandex.ru
 DOMAIN-SUFFIX,cplsb.ru
@@ -504,6 +509,8 @@ DOMAIN-SUFFIX,fix-price.com
 DOMAIN-SUFFIX,fixgoodsport.ru
 DOMAIN-SUFFIX,flocktory.com
 DOMAIN-SUFFIX,flomni.com
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com
 DOMAIN-SUFFIX,fon.bet
 DOMAIN-SUFFIX,fon.promo
 DOMAIN-SUFFIX,foralice.online
@@ -513,6 +520,8 @@ DOMAIN-SUFFIX,foxx-shop.ru
 DOMAIN-SUFFIX,freeassange.tech
 DOMAIN-SUFFIX,freede.tech
 DOMAIN-SUFFIX,freedert.online
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,future-cs.ru
 DOMAIN-SUFFIX,g-ib.ae
 DOMAIN-SUFFIX,g-ib.ru
@@ -536,6 +545,7 @@ DOMAIN-SUFFIX,genotek.health
 DOMAIN-SUFFIX,genotek.ru
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,gerronfox.com
+DOMAIN-SUFFIX,gerwin.io
 DOMAIN-SUFFIX,getcontact.com
 DOMAIN-SUFFIX,getsynapse.io
 DOMAIN-SUFFIX,gib-global.com
@@ -564,6 +574,7 @@ DOMAIN-SUFFIX,goup.ai
 DOMAIN-SUFFIX,gov.ru
 DOMAIN-SUFFIX,government.ru
 DOMAIN-SUFFIX,gpb.ru
+DOMAIN-SUFFIX,gptunnel.ru
 DOMAIN-SUFFIX,gravityfield.ai
 DOMAIN-SUFFIX,green-box-tv.com
 DOMAIN-SUFFIX,grfc.ru
@@ -1091,6 +1102,7 @@ DOMAIN-SUFFIX,pochtabank.ru
 DOMAIN-SUFFIX,podorozhnik.spb.ru
 DOMAIN-SUFFIX,poisk.ai
 DOMAIN-SUFFIX,polyclinika.ru
+DOMAIN-SUFFIX,polza.ai
 DOMAIN-SUFFIX,popmechanic.io
 DOMAIN-SUFFIX,popmechanic.ru
 DOMAIN-SUFFIX,premier.one
@@ -1162,6 +1174,7 @@ DOMAIN-SUFFIX,ritrag.com
 DOMAIN-SUFFIX,rkomi.ru
 DOMAIN-SUFFIX,rncoluminis.ru
 DOMAIN-SUFFIX,rnd.ru
+DOMAIN-SUFFIX,robotext.io
 DOMAIN-SUFFIX,rocketozon.by
 DOMAIN-SUFFIX,roistat.com
 DOMAIN-SUFFIX,romanovs100.com
@@ -1234,6 +1247,7 @@ DOMAIN-SUFFIX,ru.ccb.com
 DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
 DOMAIN-SUFFIX,rugg.ru
+DOMAIN-SUFFIX,rugpt.io
 DOMAIN-SUFFIX,ruhub.tv
 DOMAIN-SUFFIX,runewsrt.com
 DOMAIN-SUFFIX,ruptly.agency
@@ -1360,6 +1374,7 @@ DOMAIN-SUFFIX,sev.ru
 DOMAIN-SUFFIX,sevastopol.ru
 DOMAIN-SUFFIX,sferum-dev.ru
 DOMAIN-SUFFIX,sferum.ru
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,sgcheck.ru
 DOMAIN-SUFFIX,shedevrum.ai
 DOMAIN-SUFFIX,shop-rt.com
@@ -1501,6 +1516,7 @@ DOMAIN-SUFFIX,tilda.ru
 DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,time-messenger.ru
 DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,timeweb.com
@@ -1521,6 +1537,7 @@ DOMAIN-SUFFIX,tmiaf.ru
 DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com
 DOMAIN-SUFFIX,tok.media
+DOMAIN-SUFFIX,tokenator.top
 DOMAIN-SUFFIX,tolstoycomments.com
 DOMAIN-SUFFIX,tom.ru
 DOMAIN-SUFFIX,tomsk.ru
