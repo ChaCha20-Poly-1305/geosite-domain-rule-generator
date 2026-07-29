@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-07-28 10:41:41 CST
-# TOTAL: 1964
+# UPDATED: 2026-07-29 10:48:50 CST
+# TOTAL: 1989
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -172,7 +172,10 @@ DOMAIN-SUFFIX,appmetrica.yango.com
 DOMAIN-SUFFIX,appsmail.ru
 DOMAIN-SUFFIX,apptracer.ru
 DOMAIN-SUFFIX,apptrackpets.com
+DOMAIN-SUFFIX,apteka-april.ru
+DOMAIN-SUFFIX,apteka.ru
 DOMAIN-SUFFIX,aptekanomer1.com
+DOMAIN-SUFFIX,aptekiplus.ru
 DOMAIN-SUFFIX,arabicrt.ru
 DOMAIN-SUFFIX,arctic.ru
 DOMAIN-SUFFIX,arenda.yandex.ru
@@ -347,9 +350,11 @@ DOMAIN-SUFFIX,comss.ru
 DOMAIN-SUFFIX,contessa.ru
 DOMAIN-SUFFIX,coolera.ru
 DOMAIN-SUFFIX,copymonkey.app
+DOMAIN-SUFFIX,corp.express
 DOMAIN-SUFFIX,counter.yandex.net
 DOMAIN-SUFFIX,counter.yandex.ru
 DOMAIN-SUFFIX,cplsb.ru
+DOMAIN-SUFFIX,crazedns.ru
 DOMAIN-SUFFIX,credit-zenit.ru
 DOMAIN-SUFFIX,crimea.ru
 DOMAIN-SUFFIX,crl.kaspersky.com
@@ -497,11 +502,13 @@ DOMAIN-SUFFIX,eurasiadaily.su
 DOMAIN-SUFFIX,evrasia.rest
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,ewotech.ru
+DOMAIN-SUFFIX,express.ms
 DOMAIN-SUFFIX,f6.dev
 DOMAIN-SUFFIX,f6.ru
 DOMAIN-SUFFIX,f6.security
 DOMAIN-SUFFIX,facct.email
 DOMAIN-SUFFIX,facct.ru
+DOMAIN-SUFFIX,farmlend.ru
 DOMAIN-SUFFIX,fasten.ru
 DOMAIN-SUFFIX,finambank.ru
 DOMAIN-SUFFIX,findozor.net
@@ -578,6 +585,7 @@ DOMAIN-SUFFIX,gpb.ru
 DOMAIN-SUFFIX,gptunnel.ru
 DOMAIN-SUFFIX,gravityfield.ai
 DOMAIN-SUFFIX,green-box-tv.com
+DOMAIN-SUFFIX,greywallpass.com
 DOMAIN-SUFFIX,grfc.ru
 DOMAIN-SUFFIX,group-ib.ae
 DOMAIN-SUFFIX,group-ib.co.uk
@@ -674,6 +682,9 @@ DOMAIN-SUFFIX,it-territory.com
 DOMAIN-SUFFIX,itirex.ru
 DOMAIN-SUFFIX,ivanovo.ru
 DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,ivicdn.tv
+DOMAIN-SUFFIX,ixbt.com
+DOMAIN-SUFFIX,ixbt.site
 DOMAIN-SUFFIX,izbirkom.ru
 DOMAIN-SUFFIX,izhevsk.ru
 DOMAIN-SUFFIX,jamal.ru
@@ -880,6 +891,7 @@ DOMAIN-SUFFIX,megafonpro.ru
 DOMAIN-SUFFIX,megamarket.ru
 DOMAIN-SUFFIX,megamarket.tech
 DOMAIN-SUFFIX,megapolis.llc
+DOMAIN-SUFFIX,megapteka.ru
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,meteofor.com
 DOMAIN-SUFFIX,meteofor.st
@@ -892,6 +904,7 @@ DOMAIN-SUFFIX,metrika.yandex.net
 DOMAIN-SUFFIX,metrika.yandex.ru
 DOMAIN-SUFFIX,metro-cc.ru
 DOMAIN-SUFFIX,metro.spb.ru
+DOMAIN-SUFFIX,mfa.center
 DOMAIN-SUFFIX,mfk-bank.ru
 DOMAIN-SUFFIX,mfk-t-finance.ru
 DOMAIN-SUFFIX,mgfn.ru
@@ -966,6 +979,10 @@ DOMAIN-SUFFIX,narod.ru
 DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,nemocoffee.ru
 DOMAIN-SUFFIX,neon.click
+DOMAIN-SUFFIX,netcraze.club
+DOMAIN-SUFFIX,netcraze.link
+DOMAIN-SUFFIX,netcraze.pro
+DOMAIN-SUFFIX,netcraze.ru
 DOMAIN-SUFFIX,netmonet.co
 DOMAIN-SUFFIX,new-adv.ozon.ru
 DOMAIN-SUFFIX,ngenix.net
@@ -1021,6 +1038,7 @@ DOMAIN-SUFFIX,oryol.ru
 DOMAIN-SUFFIX,oskelly.co
 DOMAIN-SUFFIX,oskelly.ru
 DOMAIN-SUFFIX,osnova.io
+DOMAIN-SUFFIX,ostin.com
 DOMAIN-SUFFIX,ostrovok.ru
 DOMAIN-SUFFIX,otello.ru
 DOMAIN-SUFFIX,otm-r.com
@@ -1096,6 +1114,7 @@ DOMAIN-SUFFIX,pixel.rustore.ru
 DOMAIN-SUFFIX,pixel.yandex.com
 DOMAIN-SUFFIX,pixel.yandex.net
 DOMAIN-SUFFIX,pixonic.com
+DOMAIN-SUFFIX,planetazdorovo.ru
 DOMAIN-SUFFIX,platiecom.ru
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,pleamo.ru
@@ -1129,6 +1148,7 @@ DOMAIN-SUFFIX,pskov.ru
 DOMAIN-SUFFIX,ptcloud.ru
 DOMAIN-SUFFIX,ptsecurity.com
 DOMAIN-SUFFIX,ptz.ru
+DOMAIN-SUFFIX,public.express
 DOMAIN-SUFFIX,pushgrow.io
 DOMAIN-SUFFIX,pvubank.com
 DOMAIN-SUFFIX,pz.help
@@ -1445,6 +1465,7 @@ DOMAIN-SUFFIX,stats.telega.info
 DOMAIN-SUFFIX,stats.vk-portal.net
 DOMAIN-SUFFIX,stavropol.ru
 DOMAIN-SUFFIX,stellarlabs.ai
+DOMAIN-SUFFIX,stolichki.ru
 DOMAIN-SUFFIX,streamerce.live
 DOMAIN-SUFFIX,stv.ru
 DOMAIN-SUFFIX,summerstage.ru
@@ -1626,6 +1647,7 @@ DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,userapi.ru
 DOMAIN-SUFFIX,userx.pro
 DOMAIN-SUFFIX,usocial.pro
+DOMAIN-SUFFIX,uteka.ru
 DOMAIN-SUFFIX,uweb.ru
 DOMAIN-SUFFIX,vamzakaz.ru
 DOMAIN-SUFFIX,velberis.ru
@@ -1633,6 +1655,7 @@ DOMAIN-SUFFIX,videotronic.io
 DOMAIN-SUFFIX,vigo.tech
 DOMAIN-SUFFIX,viju.ru
 DOMAIN-SUFFIX,vildberis.ru
+DOMAIN-SUFFIX,vimu.tv
 DOMAIN-SUFFIX,vipmed.ru
 DOMAIN-SUFFIX,viqeo.tv
 DOMAIN-SUFFIX,viqeotv.com
@@ -1834,6 +1857,7 @@ DOMAIN-SUFFIX,xapi.ozon.kz
 DOMAIN-SUFFIX,xapi.ozon.ru
 DOMAIN-SUFFIX,xapi.ozonru.me
 DOMAIN-SUFFIX,xbs24.ru
+DOMAIN-SUFFIX,xlnk.ms
 DOMAIN-SUFFIX,xmail.ru
 DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com
 DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com
@@ -1961,6 +1985,7 @@ DOMAIN-SUFFIX,zaulov.by
 DOMAIN-SUFFIX,zdrav.expert
 DOMAIN-SUFFIX,zdrav10.ru
 DOMAIN-SUFFIX,zdravcity.rocks
+DOMAIN-SUFFIX,zdravcity.ru
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
 DOMAIN-SUFFIX,ziraatbank.ru

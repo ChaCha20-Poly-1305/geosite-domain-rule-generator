@@ -166,7 +166,10 @@ appmetrica.yango.com
 appsmail.ru
 apptracer.ru
 apptrackpets.com
+apteka-april.ru
+apteka.ru
 aptekanomer1.com
+aptekiplus.ru
 arabicrt.ru
 arctic.ru
 arenda.yandex.ru
@@ -341,9 +344,11 @@ comss.ru
 contessa.ru
 coolera.ru
 copymonkey.app
+corp.express
 counter.yandex.net
 counter.yandex.ru
 cplsb.ru
+crazedns.ru
 credit-zenit.ru
 crimea.ru
 crl.kaspersky.com
@@ -491,11 +496,13 @@ eurasiadaily.su
 evrasia.rest
 ewisdom.us.kg
 ewotech.ru
+express.ms
 f6.dev
 f6.ru
 f6.security
 facct.email
 facct.ru
+farmlend.ru
 fasten.ru
 finambank.ru
 findozor.net
@@ -572,6 +579,7 @@ gpb.ru
 gptunnel.ru
 gravityfield.ai
 green-box-tv.com
+greywallpass.com
 grfc.ru
 group-ib.ae
 group-ib.co.uk
@@ -668,6 +676,9 @@ it-territory.com
 itirex.ru
 ivanovo.ru
 ivi.ru
+ivicdn.tv
+ixbt.com
+ixbt.site
 izbirkom.ru
 izhevsk.ru
 jamal.ru
@@ -874,6 +885,7 @@ megafonpro.ru
 megamarket.ru
 megamarket.tech
 megapolis.llc
+megapteka.ru
 memealerts.com
 meteofor.com
 meteofor.st
@@ -886,6 +898,7 @@ metrika.yandex.net
 metrika.yandex.ru
 metro-cc.ru
 metro.spb.ru
+mfa.center
 mfk-bank.ru
 mfk-t-finance.ru
 mgfn.ru
@@ -960,6 +973,10 @@ narod.ru
 naydex.net
 nemocoffee.ru
 neon.click
+netcraze.club
+netcraze.link
+netcraze.pro
+netcraze.ru
 netmonet.co
 new-adv.ozon.ru
 ngenix.net
@@ -1015,6 +1032,7 @@ oryol.ru
 oskelly.co
 oskelly.ru
 osnova.io
+ostin.com
 ostrovok.ru
 otello.ru
 otm-r.com
@@ -1090,6 +1108,7 @@ pixel.rustore.ru
 pixel.yandex.com
 pixel.yandex.net
 pixonic.com
+planetazdorovo.ru
 platiecom.ru
 playfamily.ru
 pleamo.ru
@@ -1123,6 +1142,7 @@ pskov.ru
 ptcloud.ru
 ptsecurity.com
 ptz.ru
+public.express
 pushgrow.io
 pvubank.com
 pz.help
@@ -1439,6 +1459,7 @@ stats.telega.info
 stats.vk-portal.net
 stavropol.ru
 stellarlabs.ai
+stolichki.ru
 streamerce.live
 stv.ru
 summerstage.ru
@@ -1620,6 +1641,7 @@ userapi.com
 userapi.ru
 userx.pro
 usocial.pro
+uteka.ru
 uweb.ru
 vamzakaz.ru
 velberis.ru
@@ -1627,6 +1649,7 @@ videotronic.io
 vigo.tech
 viju.ru
 vildberis.ru
+vimu.tv
 vipmed.ru
 viqeo.tv
 viqeotv.com
@@ -1828,6 +1851,7 @@ xapi.ozon.kz
 xapi.ozon.ru
 xapi.ozonru.me
 xbs24.ru
+xlnk.ms
 xmail.ru
 xn-----6kc7adj0c9esa.com
 xn----7sbaba0dc6cdn7cxcj.com
@@ -1955,6 +1979,7 @@ zaulov.by
 zdrav.expert
 zdrav10.ru
 zdravcity.rocks
+zdravcity.ru
 zenit-card.ru
 zenit.ru
 ziraatbank.ru
