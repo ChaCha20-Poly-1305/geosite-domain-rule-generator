@@ -1,14 +1,16 @@
 # NAME: ip-geo-detect-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-08-30 12:20:46 CST
-# TOTAL: 217
+# UPDATED: 2026-08-31 12:25:47 CST
+# TOTAL: 219
 
 DOMAIN-SUFFIX,51degrees.com
 DOMAIN-SUFFIX,abstractapi.com
 DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,apiip.net
 DOMAIN-SUFFIX,apivoid.com
+DOMAIN-SUFFIX,bgp.he.net
+DOMAIN-SUFFIX,bgp.tools
 DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,check-host.net
