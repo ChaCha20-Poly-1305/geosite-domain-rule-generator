@@ -1,8 +1,8 @@
 # NAME: ip-geo-detect-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-09-20 11:59:41 CST
-# TOTAL: 219
+# UPDATED: 2026-09-21 11:57:40 CST
+# TOTAL: 223
 
 DOMAIN-SUFFIX,51degrees.com
 DOMAIN-SUFFIX,abstractapi.com
@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,country.is
 DOMAIN-SUFFIX,criminalip.io
 DOMAIN-SUFFIX,curlmyip.net
 DOMAIN-SUFFIX,db-ip.com
+DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,extreme-ip-lookup.com
 DOMAIN-SUFFIX,find-my-ip.com
@@ -107,6 +108,8 @@ DOMAIN-SUFFIX,iplocate.io
 DOMAIN-SUFFIX,iplocation.com
 DOMAIN-SUFFIX,iplocation.io
 DOMAIN-SUFFIX,iplocation.net
+DOMAIN-SUFFIX,iplogger.com
+DOMAIN-SUFFIX,iplogger.org
 DOMAIN-SUFFIX,iplookup.it
 DOMAIN-SUFFIX,ipme.co
 DOMAIN-SUFFIX,ipme.in
@@ -143,6 +146,7 @@ DOMAIN-SUFFIX,myip.eu
 DOMAIN-SUFFIX,myip.expert
 DOMAIN-SUFFIX,myip.fi
 DOMAIN-SUFFIX,myip.ge
+DOMAIN-SUFFIX,myip.happ.su
 DOMAIN-SUFFIX,myip.hk
 DOMAIN-SUFFIX,myip.id
 DOMAIN-SUFFIX,myip.is
