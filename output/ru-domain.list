@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-09-25 12:00:34 CST
-# TOTAL: 2099
+# UPDATED: 2026-09-26 12:05:49 CST
+# TOTAL: 2100
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -1507,6 +1507,7 @@ DOMAIN-SUFFIX,smailru.net
 DOMAIN-SUFFIX,smartmed.pro
 DOMAIN-SUFFIX,smarttek.media
 DOMAIN-SUFFIX,smbcr-bank.ru
+DOMAIN-SUFFIX,smena.cafe
 DOMAIN-SUFFIX,smolensk.ru
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,sn-esp.site
