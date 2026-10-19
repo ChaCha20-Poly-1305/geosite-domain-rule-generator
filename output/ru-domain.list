@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-10-18 11:37:14 CST
-# TOTAL: 2263
+# UPDATED: 2026-10-19 11:47:24 CST
+# TOTAL: 2267
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -135,6 +135,7 @@ DOMAIN-SUFFIX,altaiobr04.ru
 DOMAIN-SUFFIX,amc.yandex.ru
 DOMAIN-SUFFIX,amediateka.ru
 DOMAIN-SUFFIX,amic.ru
+DOMAIN-SUFFIX,amt-insurance.com
 DOMAIN-SUFFIX,amur.ru
 DOMAIN-SUFFIX,an.mail.ru
 DOMAIN-SUFFIX,an.yandex.ru
@@ -352,6 +353,7 @@ DOMAIN-SUFFIX,centrinvest.ru
 DOMAIN-SUFFIX,ceosummit.ru
 DOMAIN-SUFFIX,cert-gib.com
 DOMAIN-SUFFIX,cert-gib.ru
+DOMAIN-SUFFIX,chat2desk.com
 DOMAIN-SUFFIX,chel.ru
 DOMAIN-SUFFIX,chelindbank.ru
 DOMAIN-SUFFIX,chelinvest.ru
@@ -953,6 +955,7 @@ DOMAIN-SUFFIX,lanta.ru
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
 DOMAIN-SUFFIX,lerna.ru
+DOMAIN-SUFFIX,lexgarant.com
 DOMAIN-SUFFIX,lifestyle-tec.ru
 DOMAIN-SUFFIX,ligadobra.ru
 DOMAIN-SUFFIX,ligastavok-csr.ru
@@ -1363,6 +1366,7 @@ DOMAIN-SUFFIX,reklama.mail.ru
 DOMAIN-SUFFIX,relap.mail.ru
 DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,rencredit.ru
+DOMAIN-SUFFIX,renins.com
 DOMAIN-SUFFIX,report-megafon.ru
 DOMAIN-SUFFIX,report.ap.yandex-net.ru
 DOMAIN-SUFFIX,reso-med.com
