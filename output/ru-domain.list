@@ -1,10 +1,11 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-10-19 11:47:24 CST
-# TOTAL: 2267
+# UPDATED: 2026-10-20 11:58:48 CST
+# TOTAL: 2306
 
 DOMAIN-SUFFIX,1917live.red
+DOMAIN-SUFFIX,1c-bitrix.ru
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
 DOMAIN-SUFFIX,1prime.ru
@@ -224,6 +225,7 @@ DOMAIN-SUFFIX,avs.io
 DOMAIN-SUFFIX,avto.ru
 DOMAIN-SUFFIX,avtovokzaly.ru
 DOMAIN-SUFFIX,azbukainterneta.ru
+DOMAIN-SUFFIX,azbyka.ru
 DOMAIN-SUFFIX,b17.ru
 DOMAIN-SUFFIX,b2.mail.ru
 DOMAIN-SUFFIX,b2c-digest.ru
@@ -279,6 +281,15 @@ DOMAIN-SUFFIX,bilet.nspk.ru
 DOMAIN-SUFFIX,bimsaas.ru
 DOMAIN-SUFFIX,bir.ru
 DOMAIN-SUFFIX,bitrix.info
+DOMAIN-SUFFIX,bitrix24.com
+DOMAIN-SUFFIX,bitrix24.net
+DOMAIN-SUFFIX,bitrix24.ru
+DOMAIN-SUFFIX,bitrix24.tech
+DOMAIN-SUFFIX,bitrix24public.com
+DOMAIN-SUFFIX,bitrix24shop.ru
+DOMAIN-SUFFIX,bitrix24site.ru
+DOMAIN-SUFFIX,bitrixphone.com
+DOMAIN-SUFFIX,bitrixsoft.com
 DOMAIN-SUFFIX,bizmrg.com
 DOMAIN-SUFFIX,bk.ru
 DOMAIN-SUFFIX,bk6bba-resources.com
@@ -704,6 +715,9 @@ DOMAIN-SUFFIX,halvacard.ru
 DOMAIN-SUFFIX,hardware.ru
 DOMAIN-SUFFIX,hawk.so
 DOMAIN-SUFFIX,hayya.ae
+DOMAIN-SUFFIX,hello-doc.ru
+DOMAIN-SUFFIX,hellodoc.app
+DOMAIN-SUFFIX,hellodoc.ru
 DOMAIN-SUFFIX,hh.by
 DOMAIN-SUFFIX,hh.kz
 DOMAIN-SUFFIX,hh.ru
@@ -711,6 +725,7 @@ DOMAIN-SUFFIX,hhcdn.ru
 DOMAIN-SUFFIX,home.bank
 DOMAIN-SUFFIX,homecredit.ru
 DOMAIN-SUFFIX,hrtek.ru
+DOMAIN-SUFFIX,hse.ru
 DOMAIN-SUFFIX,hva.im
 DOMAIN-SUFFIX,i-ola.ru
 DOMAIN-SUFFIX,ibamoscow.ru
@@ -823,6 +838,7 @@ DOMAIN-SUFFIX,jivochat.ng
 DOMAIN-SUFFIX,jivochat.ru
 DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,jivosite.ru
+DOMAIN-SUFFIX,joyreactor.cc
 DOMAIN-SUFFIX,jpmorgan.ru
 DOMAIN-SUFFIX,jump.taxi
 DOMAIN-SUFFIX,jumpwork.ru
@@ -912,6 +928,9 @@ DOMAIN-SUFFIX,koronapay.com
 DOMAIN-SUFFIX,koshelek.app
 DOMAIN-SUFFIX,koshelev-bank.ru
 DOMAIN-SUFFIX,kostroma.ru
+DOMAIN-SUFFIX,kp-config-smart-tv.akamaized.net
+DOMAIN-SUFFIX,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,kp.yandex.net
 DOMAIN-SUFFIX,kpcdn.net
 DOMAIN-SUFFIX,krasnodar.su
 DOMAIN-SUFFIX,krasnoeibeloe.ru
@@ -942,6 +961,8 @@ DOMAIN-SUFFIX,ksn-url-geo.kaspersky-labs.com
 DOMAIN-SUFFIX,ksn-url.geoksn.kaspersky.com
 DOMAIN-SUFFIX,ksn-verdict-geo.kaspersky-labs.com
 DOMAIN-SUFFIX,ksn-verdict.geoksn.kaspersky.com
+DOMAIN-SUFFIX,ktalk.host
+DOMAIN-SUFFIX,ktalk.ru
 DOMAIN-SUFFIX,ktech.team
 DOMAIN-SUFFIX,kto-zvonili.com
 DOMAIN-SUFFIX,kuban.ru
@@ -1005,8 +1026,11 @@ DOMAIN-SUFFIX,mcbank.ru
 DOMAIN-SUFFIX,mcc250.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcs.st
 DOMAIN-SUFFIX,mdr.ksn.kaspersky-labs.com
+DOMAIN-SUFFIX,medflex.ru
 DOMAIN-SUFFIX,mediumquality.ru
+DOMAIN-SUFFIX,medlock.ru
 DOMAIN-SUFFIX,medrocket.me
+DOMAIN-SUFFIX,medrocket.ru
 DOMAIN-SUFFIX,medrussia.org
 DOMAIN-SUFFIX,medsi-premium.ru
 DOMAIN-SUFFIX,medsi.com
@@ -1014,6 +1038,7 @@ DOMAIN-SUFFIX,medsi.pro
 DOMAIN-SUFFIX,medsi.ru
 DOMAIN-SUFFIX,medtochka.md
 DOMAIN-SUFFIX,medtochka.me
+DOMAIN-SUFFIX,medtochka.ru
 DOMAIN-SUFFIX,megafon.com
 DOMAIN-SUFFIX,megafon.ru
 DOMAIN-SUFFIX,megafonpro.ru
@@ -1074,6 +1099,7 @@ DOMAIN-SUFFIX,mos.transport.vtb.ru
 DOMAIN-SUFFIX,mosgorzdrav.ru
 DOMAIN-SUFFIX,mosmetro.ru
 DOMAIN-SUFFIX,mosmetro.tech
+DOMAIN-SUFFIX,mospat.ru
 DOMAIN-SUFFIX,mosreg.ru
 DOMAIN-SUFFIX,movika.com
 DOMAIN-SUFFIX,mp.world
@@ -1084,6 +1110,7 @@ DOMAIN-SUFFIX,ms.dzen.ru
 DOMAIN-SUFFIX,ms.vk.com
 DOMAIN-SUFFIX,ms.vk.ru
 DOMAIN-SUFFIX,mspbank.ru
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsbank.ru
@@ -1261,6 +1288,7 @@ DOMAIN-SUFFIX,p17.upd.kaspersky.com
 DOMAIN-SUFFIX,p18.upd.kaspersky.com
 DOMAIN-SUFFIX,p19.upd.kaspersky.com
 DOMAIN-SUFFIX,papertole.by
+DOMAIN-SUFFIX,patriarchia.ru
 DOMAIN-SUFFIX,payecom.ru
 DOMAIN-SUFFIX,payment.ru
 DOMAIN-SUFFIX,paywb.com
@@ -1295,8 +1323,12 @@ DOMAIN-SUFFIX,polyclinika.ru
 DOMAIN-SUFFIX,polza.ai
 DOMAIN-SUFFIX,popmechanic.io
 DOMAIN-SUFFIX,popmechanic.ru
+DOMAIN-SUFFIX,posledovania.ru
 DOMAIN-SUFFIX,poudobnee.com
 DOMAIN-SUFFIX,pravilno-pishem.ru
+DOMAIN-SUFFIX,pravmir.com
+DOMAIN-SUFFIX,pravmir.ru
+DOMAIN-SUFFIX,pravoslavie.ru
 DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,premiumlive.site
 DOMAIN-SUFFIX,pressria.ru
@@ -1305,12 +1337,15 @@ DOMAIN-SUFFIX,primbank.ru
 DOMAIN-SUFFIX,priobye.ru
 DOMAIN-SUFFIX,priovtb.com
 DOMAIN-SUFFIX,private-banking.ru
+DOMAIN-SUFFIX,probolezny.ru
 DOMAIN-SUFFIX,prod-my.games
 DOMAIN-SUFFIX,prodcontest.com
+DOMAIN-SUFFIX,prodoctorov.ru
 DOMAIN-SUFFIX,prodota.ru
 DOMAIN-SUFFIX,prodvizhenie-adv.ozon.ru
 DOMAIN-SUFFIX,profeat.team
 DOMAIN-SUFFIX,promodj.com
+DOMAIN-SUFFIX,protabletky.ru
 DOMAIN-SUFFIX,prvbank.ru
 DOMAIN-SUFFIX,psb-ocenka.ru
 DOMAIN-SUFFIX,psb.ru
@@ -1362,6 +1397,7 @@ DOMAIN-SUFFIX,reg.cloud
 DOMAIN-SUFFIX,reg.com
 DOMAIN-SUFFIX,reg.ru
 DOMAIN-SUFFIX,regard.ru
+DOMAIN-SUFFIX,regionvideo.ru
 DOMAIN-SUFFIX,reklama.mail.ru
 DOMAIN-SUFFIX,relap.mail.ru
 DOMAIN-SUFFIX,rencapbank.ru
@@ -1383,6 +1419,7 @@ DOMAIN-SUFFIX,rncb.ru
 DOMAIN-SUFFIX,rncoluminis.ru
 DOMAIN-SUFFIX,rnd.ru
 DOMAIN-SUFFIX,ro-edu.ru
+DOMAIN-SUFFIX,robohall.tech
 DOMAIN-SUFFIX,robotext.io
 DOMAIN-SUFFIX,rocketozon.by
 DOMAIN-SUFFIX,roistat.com
@@ -2012,6 +2049,7 @@ DOMAIN-SUFFIX,wbtek.ru
 DOMAIN-SUFFIX,wbwh.ru
 DOMAIN-SUFFIX,wbwh.tech
 DOMAIN-SUFFIX,web-analytics.wildberries.ru
+DOMAIN-SUFFIX,webtypikon.ru
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
 DOMAIN-SUFFIX,weildberries.ru
@@ -2125,6 +2163,7 @@ DOMAIN-SUFFIX,xn--80aapfrkg0au.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
 DOMAIN-SUFFIX,xn--80acgfbsl1azdqr.xn--p1ai
+DOMAIN-SUFFIX,xn--80adfddrquddgz.xn--p1ai
 DOMAIN-SUFFIX,xn--80aglfyfk.xn--p1ai
 DOMAIN-SUFFIX,xn--80aglzei.xn--p1ai
 DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai

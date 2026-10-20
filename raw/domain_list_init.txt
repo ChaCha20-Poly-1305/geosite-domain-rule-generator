@@ -1,4 +1,5 @@
 1917live.red
+1c-bitrix.ru
 1l-hit.mail.ru
 1l-hit.vkplay.ru
 1prime.ru
@@ -218,6 +219,7 @@ avs.io
 avto.ru
 avtovokzaly.ru
 azbukainterneta.ru
+azbyka.ru
 b17.ru
 b2.mail.ru
 b2c-digest.ru
@@ -273,6 +275,15 @@ bilet.nspk.ru
 bimsaas.ru
 bir.ru
 bitrix.info
+bitrix24.com
+bitrix24.net
+bitrix24.ru
+bitrix24.tech
+bitrix24public.com
+bitrix24shop.ru
+bitrix24site.ru
+bitrixphone.com
+bitrixsoft.com
 bizmrg.com
 bk.ru
 bk6bba-resources.com
@@ -698,6 +709,9 @@ halvacard.ru
 hardware.ru
 hawk.so
 hayya.ae
+hello-doc.ru
+hellodoc.app
+hellodoc.ru
 hh.by
 hh.kz
 hh.ru
@@ -705,6 +719,7 @@ hhcdn.ru
 home.bank
 homecredit.ru
 hrtek.ru
+hse.ru
 hva.im
 i-ola.ru
 ibamoscow.ru
@@ -817,6 +832,7 @@ jivochat.ng
 jivochat.ru
 jivosite.com
 jivosite.ru
+joyreactor.cc
 jpmorgan.ru
 jump.taxi
 jumpwork.ru
@@ -906,6 +922,9 @@ koronapay.com
 koshelek.app
 koshelev-bank.ru
 kostroma.ru
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+kp.yandex.net
 kpcdn.net
 krasnodar.su
 krasnoeibeloe.ru
@@ -936,6 +955,8 @@ ksn-url-geo.kaspersky-labs.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict-geo.kaspersky-labs.com
 ksn-verdict.geoksn.kaspersky.com
+ktalk.host
+ktalk.ru
 ktech.team
 kto-zvonili.com
 kuban.ru
@@ -999,8 +1020,11 @@ mcbank.ru
 mcc250.pub.3gppnetwork.org
 mcs.st
 mdr.ksn.kaspersky-labs.com
+medflex.ru
 mediumquality.ru
+medlock.ru
 medrocket.me
+medrocket.ru
 medrussia.org
 medsi-premium.ru
 medsi.com
@@ -1008,6 +1032,7 @@ medsi.pro
 medsi.ru
 medtochka.md
 medtochka.me
+medtochka.ru
 megafon.com
 megafon.ru
 megafonpro.ru
@@ -1068,6 +1093,7 @@ mos.transport.vtb.ru
 mosgorzdrav.ru
 mosmetro.ru
 mosmetro.tech
+mospat.ru
 mosreg.ru
 movika.com
 mp.world
@@ -1078,6 +1104,7 @@ ms.dzen.ru
 ms.vk.com
 ms.vk.ru
 mspbank.ru
+mts-link.ru
 mts-ws.net
 mts.ru
 mtsbank.ru
@@ -1255,6 +1282,7 @@ p17.upd.kaspersky.com
 p18.upd.kaspersky.com
 p19.upd.kaspersky.com
 papertole.by
+patriarchia.ru
 payecom.ru
 payment.ru
 paywb.com
@@ -1289,8 +1317,12 @@ polyclinika.ru
 polza.ai
 popmechanic.io
 popmechanic.ru
+posledovania.ru
 poudobnee.com
 pravilno-pishem.ru
+pravmir.com
+pravmir.ru
+pravoslavie.ru
 premier.one
 premiumlive.site
 pressria.ru
@@ -1299,12 +1331,15 @@ primbank.ru
 priobye.ru
 priovtb.com
 private-banking.ru
+probolezny.ru
 prod-my.games
 prodcontest.com
+prodoctorov.ru
 prodota.ru
 prodvizhenie-adv.ozon.ru
 profeat.team
 promodj.com
+protabletky.ru
 prvbank.ru
 psb-ocenka.ru
 psb.ru
@@ -1356,6 +1391,7 @@ reg.cloud
 reg.com
 reg.ru
 regard.ru
+regionvideo.ru
 reklama.mail.ru
 relap.mail.ru
 rencapbank.ru
@@ -1377,6 +1413,7 @@ rncb.ru
 rncoluminis.ru
 rnd.ru
 ro-edu.ru
+robohall.tech
 robotext.io
 rocketozon.by
 roistat.com
@@ -2006,6 +2043,7 @@ wbtek.ru
 wbwh.ru
 wbwh.tech
 web-analytics.wildberries.ru
+webtypikon.ru
 webvisor.com
 webvisor.org
 weildberries.ru
@@ -2119,6 +2157,7 @@ xn--80aapfrkg0au.xn--p1ai
 xn--80acbjgmges7ca.xn--p1ai
 xn--80acbjgsdq2cl.xn--p1ai
 xn--80acgfbsl1azdqr.xn--p1ai
+xn--80adfddrquddgz.xn--p1ai
 xn--80aglfyfk.xn--p1ai
 xn--80aglzei.xn--p1ai
 xn--80aj3b.xn--p1ai
