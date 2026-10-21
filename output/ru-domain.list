@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-10-20 11:58:48 CST
-# TOTAL: 2306
+# UPDATED: 2026-10-21 11:47:47 CST
+# TOTAL: 2310
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1c-bitrix.ru
@@ -219,8 +219,10 @@ DOMAIN-SUFFIX,avangard.ru
 DOMAIN-SUFFIX,aversbank.ru
 DOMAIN-SUFFIX,aviasales.com
 DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,avito.com
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,avito.tech
 DOMAIN-SUFFIX,avs.io
 DOMAIN-SUFFIX,avto.ru
 DOMAIN-SUFFIX,avtovokzaly.ru
@@ -1786,6 +1788,8 @@ DOMAIN-SUFFIX,tele2.ru
 DOMAIN-SUFFIX,telega.info
 DOMAIN-SUFFIX,telega.me
 DOMAIN-SUFFIX,temka37.ru
+DOMAIN-SUFFIX,terratraf.com
+DOMAIN-SUFFIX,terratraf.io
 DOMAIN-SUFFIX,tetrika-school.ru
 DOMAIN-SUFFIX,thbank.ru
 DOMAIN-SUFFIX,thebutik.ru
