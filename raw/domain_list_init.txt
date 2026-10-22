@@ -521,6 +521,9 @@ drweb.fr
 drweb.kz
 drweb.ru
 drweb.uz
+ds-servers.com
+dsn.host
+dsncdn.net
 dsppx1.com
 dtf.ru
 durovscode.com
