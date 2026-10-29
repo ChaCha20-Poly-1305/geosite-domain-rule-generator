@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-10-28 12:40:04 CST
-# TOTAL: 2313
+# UPDATED: 2026-10-29 12:53:09 CST
+# TOTAL: 2314
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1c-bitrix.ru
@@ -807,6 +807,7 @@ DOMAIN-SUFFIX,itb.ru
 DOMAIN-SUFFIX,itirex.ru
 DOMAIN-SUFFIX,ivanovo.ru
 DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,ivi.tv
 DOMAIN-SUFFIX,ivicdn.tv
 DOMAIN-SUFFIX,ixbt.com
 DOMAIN-SUFFIX,ixbt.games
