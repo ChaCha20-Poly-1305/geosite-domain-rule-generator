@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-11-02 12:59:21 CST
-# TOTAL: 2314
+# UPDATED: 2026-11-03 13:48:06 CST
+# TOTAL: 2315
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1c-bitrix.ru
@@ -2305,6 +2305,7 @@ DOMAIN-SUFFIX,yourgood.app
 DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru
 DOMAIN-SUFFIX,zabedu.ru
 DOMAIN-SUFFIX,zanmarket.ru
+DOMAIN-SUFFIX,zapishu.me
 DOMAIN-SUFFIX,zarplata.ru
 DOMAIN-SUFFIX,zaulov.by
 DOMAIN-SUFFIX,zdrav.expert
