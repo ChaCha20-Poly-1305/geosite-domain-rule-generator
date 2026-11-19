@@ -1,7 +1,7 @@
 # NAME: ip-geo-detect-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-11-18 14:28:02 CST
+# UPDATED: 2026-11-19 14:30:00 CST
 # TOTAL: 1624
 
 DOMAIN-SUFFIX,1ip.fr
